@@ -22,10 +22,6 @@ The system leverages **LangChain**, **Chroma Vector Database**, and **HuggingFac
 Designed for **Google Colab** or local Python 3.10+ environments.
 
 ```bash
-# Clone this repository
-git clone https://github.com/<your-username>/DeepRead.git
-cd DeepRead
-
 # Install dependencies
 pip install -q langchain langchain-community langchain-huggingface chromadb sentence-transformers pypdf
 ```
