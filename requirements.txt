@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+openai
+requests
+python-dotenv
+PyPDF2
+pypdf
+scikit-learn
+numpy
+huggingface_hub
+pydantic
